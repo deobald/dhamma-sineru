@@ -2,7 +2,7 @@
 title:  'Dhamma Sineru Deep Clean Manual'
 ---
 
-![](images/dhamma-wheel.png)
+![](images/dhamma-wheel-yellow.png)
 
 <br/>
 
