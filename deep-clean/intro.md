@@ -1,5 +1,5 @@
 
-# Dhamma Sineru Cleaning Manual
+# Dhamma Sineru Deep Clean Manual
 
 
 ## Introduction
