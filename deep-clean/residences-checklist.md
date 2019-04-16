@@ -23,24 +23,25 @@
 ## 2. Dry Dust
 
 +--------------------------------------------------------+------------------------+
-|                                                        |                        |
-|### Bedroom:                                            |### Bathroom:           |
-|                                                        |                        |
-|![][unchecked] Move all bedding to one side of the room |![][unchecked] Ceilings |
-|                                                        |                        |
-|![][unchecked] Ceiling                                  |![][unchecked] Walls    |
-|                                                        |                        |
-|![][unchecked] Electrical conduits                      |![][unchecked] Windows  |
-|                                                        |                        |
-|![][unchecked] Walls                                    |<br/>                   |
-|                                                        |                        |
-|![][unchecked] Windows                                  |### Toilet:             |
-|                                                        |                        |
-|![][unchecked] Power outlets                            |![][unchecked] Ceilings |
-|                                                        |                        |
-|![][unchecked] Headboard                                |![][unchecked] Walls    |
-|                                                        |                        |
-|![][unchecked] Bedframe (top and bottom)                |![][unchecked] Windows  |
+|### Bedroom:                                            |                        |
+|                                                        |### Bathroom:           |
+|![][unchecked] Move all bedding to one side of the room |                        |
+|                                                        |![][unchecked] Ceilings |
+|![][unchecked] Ceiling                                  |                        |
+|                                                        |![][unchecked] Walls    |
+|![][unchecked] Electrical conduits                      |                        |
+|                                                        |![][unchecked] Windows  |
+|![][unchecked] Walls                                    |                        |
+|                                                        |<br/>                   |
+|![][unchecked] Windows                                  |                        |
+|                                                        |### Toilet:             |
+|![][unchecked] Power outlets                            |                        |
+|                                                        |![][unchecked] Ceilings |
+|![][unchecked] Headboard                                |                        |
+|                                                        |![][unchecked] Walls    |
+|![][unchecked] Bedframe (top and bottom)                |                        |
+|                                                        |![][unchecked] Windows  |
+|![][unchecked] Open all windows                         |                        |
 |                                                        |                        |
 +--------------------------------------------------------+------------------------+
 
@@ -62,13 +63,15 @@
 |                                         |                                       |
 |![][unchecked] Shelves                   |<br/>                                  |
 |                                         |                                       |
-|<br/>                                    |### (c) Accessories                    |
+|![][unchecked] Mattress stains           |### (c) Accessories                    |
 |                                         |                                       |
-|### (b1) Bathroom                        |![][unchecked] Stool                   |
+|<br/>                                    |![][unchecked] Stool                   |
 |                                         |                                       |
-|![][unchecked] Window                    |![][unchecked] Dustbin / dustpan       |
+|### (b1) Bathroom                        |![][unchecked] Dustbin / dustpan       |
 |                                         |                                       |
-|![][unchecked] Fixtures                  |![][unchecked] Buckets / mugs          |
+|![][unchecked] Window                    |![][unchecked] Buckets / mugs          |
+|                                         |                                       |
+|![][unchecked] Fixtures                  |                                       |
 |                                         |                                       |
 |![][unchecked] Wall tiles                |                                       |
 |                                         |                                       |
