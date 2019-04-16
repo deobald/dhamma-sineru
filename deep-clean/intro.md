@@ -1,6 +1,16 @@
+---
+title:  'Dhamma Sineru Deep Clean Manual'
+---
 
-# Dhamma Sineru Deep Clean Manual
+![](images/dhamma-wheel.png)
 
+<br/>
+
+About this document:
+
+For the canonical Microsoft Word version of this document, speak to the Administration of Dhamma Sineru. To rebuild this document from open source, visit https://github.com/deobald/dhamma-sineru
+
+\newpage
 
 ## Introduction
 
@@ -14,6 +24,7 @@ Similarly, Goenkaji compares a new stain on an already-dirty shirt to a new stai
 ## General Advice
 
 - Always try to clean top to bottom.
+- Always follow the checklist and check tasks as they are completed.
 - Always wear a dust mask while sweeping and dry dusting.
 - Always be very careful not to harm any visible creatures, no matter how small.
 
