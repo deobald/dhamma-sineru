@@ -1,5 +1,5 @@
 ---
-title:  'Dhamma Sineru Deep Clean Manual'
+subtitle:  'Dhamma Sineru Deep Clean Manual'
 ---
 
 ![](images/dhamma-wheel-yellow.png)

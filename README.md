@@ -38,6 +38,8 @@ Instructions can be as verbose as necessary. Include images, long descriptions, 
 
 ## TODO
 
-- Add images to residence doc
-- Finish dormitories doc
-- Page numbering?
+- [x] Larger subtitles
+- [ ] Add images to dorm instructions
+- [ ] Finish dormitories checklist
+- [ ] Add images to residence doc
+- [ ] Page numbering?
