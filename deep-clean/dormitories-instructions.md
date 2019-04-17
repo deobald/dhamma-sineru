@@ -9,13 +9,17 @@ Estimated time required: 2 full days for 4-6 dhamma sevaks
 
 If the dining hall is particularly dirty, sweep it up first so dirt doesn't come into the dorms as you move back and forth. Remove miscellaneous items (coat hangers, toothpaste, combs, pencils, laundry clips, wires, boards, garbage, water bottles, etc). Remove stools, then dust and wipe them outside. Sweep the floor.
 
+![Miscellaneous items](images/deep-clean/miscellaneous.jpeg "Miscellaneous items")
+
 ### 2. Wash curtains.
 
 Gently remove all the curtains from the curtain rods and curtain wires. Snap-dust curtains in a whipping motion outside (see photo) while they are dry to remove dirt. Wash all the curtains by soaking, scrubbing, and rinsing them in a clean residence bathroom. About 8 curtains fit comfortably in one bucket. Hang the curtains to dry in the sun. You will replace them when you replace the linens in the dormitory.
 
+![](images/deep-clean/curtain1.jpeg "Curtain")
+
 ### 3. Move beds to one side.
 
-Pick up all linens (sheets, pillow cases, duvet covers, pillows, duvets, and blankets) and hit them to remove any dust settled on top. Move all the linens to two beds on the far side of the dorm. Vacuum all the remaining mattresses with the upholstry brush. Take each mattress outside to dust it off on all five remaining sides (four edges and bottom). Stack all mattresses on the remaining two beds on the far side of the room.
+Pick up all linens (sheets, pillow cases, duvet covers, pillows, duvets, and blankets) and hit them to remove any dust settled on top. Move all the linens to two beds on the far side of the dorm. Vacuum all the remaining mattresses with the upholstry brush. Take each mattress outside to dust it off on all five remaining sides (four edges and bottom). If you notice any stains (usually bird poop) on the mattress, scrub it with a damp cloth. Stack all mattresses on the remaining two beds on the far side of the room.
 
 ### 4. Clean half the dorm
 
