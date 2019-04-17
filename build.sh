@@ -6,3 +6,4 @@ pandoc -s --lua-filter=pagebreak.lua -o output/residences-checklist.docx deep-cl
 
 # dormitories
 pandoc -s --lua-filter=pagebreak.lua -Msubtitle=Dormitories -o output/dormitories-instructions.docx deep-clean/intro.md deep-clean/dormitories-instructions.md
+pandoc -s --lua-filter=pagebreak.lua -o output/dormitories-checklist.docx deep-clean/dormitories-checklist.md

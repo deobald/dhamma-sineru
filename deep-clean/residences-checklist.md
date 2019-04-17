@@ -3,30 +3,25 @@
 
 <br/>
 
-![][checked] Read the Dhamma Sineru Deep Clean Manual for Residences.
+![checked] Read the Dhamma Sineru Deep Clean Manual for Residences.
 
 <br/>
 
-## 1. Wash Curtains
-
-![unchecked] Remove curtains from all residences
-
-![unchecked] Wash all curtains
-
-![unchecked] Hang curtains to dry
-
-![unchecked] Replace curtains in all residences
-
-## 2. Sweep
-
-![][unchecked] Sweep the balcony
-
-![][unchecked] Remove all garbage from bedroom, bathroom, and toilet
-
-![][unchecked] Sweep the shelves and bathroom electrical outlet
-
-![][unchecked] Sweep the floors
-
++------------------------------+------------------------------+
+|## 1. Wash Curtains           |## 2. Sweep                   |
+|                              |                              |
+|![unchecked] Remove curtains  |![unchecked] Sweep the balcony|
+|from all residences           |                              |
+|                              |![unchecked] Remove all       |
+|![unchecked] Wash all curtains|garbage                       |
+|                              |                              |
+|![unchecked] Hang curtains to |![unchecked] Sweep the shelves|
+|dry                           |                              |
+|                              |![unchecked] Sweep the floors |
+|![unchecked] Replace curtains |                              |
+|in all residences             |                              |
+|                              |                              |
++------------------------------+------------------------------+
 
 <br/>
 
@@ -35,23 +30,23 @@
 +--------------------------------------------------------+------------------------+
 |### Bedroom:                                            |                        |
 |                                                        |### Bathroom:           |
-|![][unchecked] Move all bedding to one side of the room |                        |
-|                                                        |![][unchecked] Ceilings |
-|![][unchecked] Ceiling                                  |                        |
-|                                                        |![][unchecked] Walls    |
-|![][unchecked] Electrical conduits                      |                        |
-|                                                        |![][unchecked] Windows  |
-|![][unchecked] Walls                                    |                        |
+|![unchecked] Move all bedding to one side of the room |                        |
+|                                                        |![unchecked] Ceilings |
+|![unchecked] Ceiling                                  |                        |
+|                                                        |![unchecked] Walls    |
+|![unchecked] Electrical conduits                      |                        |
+|                                                        |![unchecked] Windows  |
+|![unchecked] Walls                                    |                        |
 |                                                        |<br/>                   |
-|![][unchecked] Windows                                  |                        |
+|![unchecked] Windows                                  |                        |
 |                                                        |### Toilet:             |
-|![][unchecked] Power outlets                            |                        |
-|                                                        |![][unchecked] Ceilings |
-|![][unchecked] Headboard                                |                        |
-|                                                        |![][unchecked] Walls    |
-|![][unchecked] Bedframe (top and bottom)                |                        |
-|                                                        |![][unchecked] Windows  |
-|![][unchecked] Open all windows                         |                        |
+|![unchecked] Power outlets                            |                        |
+|                                                        |![unchecked] Ceilings |
+|![unchecked] Headboard                                |                        |
+|                                                        |![unchecked] Walls    |
+|![unchecked] Bedframe (top and bottom)                |                        |
+|                                                        |![unchecked] Windows  |
+|![unchecked] Open all windows                         |                        |
 |                                                        |                        |
 +--------------------------------------------------------+------------------------+
 
@@ -63,29 +58,29 @@
 |                                         |                                       |
 |### (a) Bedroom                          |### (b2) Toilet                        |
 |                                         |                                       |
-|![][unchecked] Windows                   |![][unchecked] Window                  |
+|![unchecked] Windows                   |![unchecked] Window                  |
 |                                         |                                       |
-|![][unchecked] Power outlets             |![][unchecked] Fixtures                |
+|![unchecked] Power outlets             |![unchecked] Fixtures                |
 |                                         |                                       |
-|![][unchecked] Headboard                 |![][unchecked] Wall tiles              |
+|![unchecked] Headboard                 |![unchecked] Wall tiles              |
 |                                         |                                       |
-|![][unchecked] Curtain rods              |![][unchecked] Floor tiles             |
+|![unchecked] Curtain rods              |![unchecked] Floor tiles             |
 |                                         |                                       |
-|![][unchecked] Shelves                   |<br/>                                  |
+|![unchecked] Shelves                   |<br/>                                  |
 |                                         |                                       |
-|![][unchecked] Mattress stains           |### (c) Accessories                    |
+|![unchecked] Mattress stains           |### (c) Accessories                    |
 |                                         |                                       |
-|<br/>                                    |![][unchecked] Stool                   |
+|<br/>                                    |![unchecked] Stool                   |
 |                                         |                                       |
-|### (b1) Bathroom                        |![][unchecked] Dustbin / dustpan       |
+|### (b1) Bathroom                        |![unchecked] Dustbin / dustpan       |
 |                                         |                                       |
-|![][unchecked] Window                    |![][unchecked] Buckets / mugs          |
+|![unchecked] Window                    |![unchecked] Buckets / mugs          |
 |                                         |                                       |
-|![][unchecked] Fixtures                  |                                       |
+|![unchecked] Fixtures                  |                                       |
 |                                         |                                       |
-|![][unchecked] Wall tiles                |                                       |
+|![unchecked] Wall tiles                |                                       |
 |                                         |                                       |
-|![][unchecked] Floor tiles               |                                       |
+|![unchecked] Floor tiles               |                                       |
 +-----------------------------------------+---------------------------------------+
 
 
@@ -93,20 +88,20 @@
 
 ## 5. Mop
 
-![][unchecked] Bedroom floor
+![unchecked] Bedroom floor
 
-![][unchecked] Bathroom floor
+![unchecked] Bathroom floor
 
-![][unchecked] Toilet floor
+![unchecked] Toilet floor
 
 
 <br/>
 
 ## 6. Window glass
 
-![][unchecked] Scrub outside of windows
+![unchecked] Scrub outside of windows
 
-![][unchecked] Colin window glass
+![unchecked] Colin window glass
 
 
 [checked]: images/checked.png ""
