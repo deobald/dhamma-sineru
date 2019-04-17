@@ -9,17 +9,26 @@ Estimated time required: 2 full days for 4-6 dhamma sevaks
 
 If the dining hall is particularly dirty, sweep it up first so dirt doesn't come into the dorms as you move back and forth. Remove miscellaneous items (coat hangers, toothpaste, combs, pencils, laundry clips, wires, boards, garbage, water bottles, etc). Remove stools, then dust and wipe them outside. Sweep the floor.
 
-![Miscellaneous items](images/deep-clean/miscellaneous.jpeg "Miscellaneous items")
+![Miscellaneous items](images/deep-clean/miscellaneous.jpeg)
 
 ### 2. Wash curtains.
 
 Gently remove all the curtains from the curtain rods and curtain wires. Snap-dust curtains in a whipping motion outside (see photo) while they are dry to remove dirt. Wash all the curtains by soaking, scrubbing, and rinsing them in a clean residence bathroom. About 8 curtains fit comfortably in one bucket. Hang the curtains to dry in the sun. You will replace them when you replace the linens in the dormitory.
 
-![](images/deep-clean/curtain1.jpeg "Curtain")
++----------------------------------------+----------------------------------------+
+|![Curtain                               |![Remove curtain                        |
+|rod](images/deep-clean/curtain1.jpeg)   |gently](images/deep-clean/curtain2.jpeg)|
++----------------------------------------+----------------------------------------+
 
 ### 3. Move beds to one side.
 
 Pick up all linens (sheets, pillow cases, duvet covers, pillows, duvets, and blankets) and hit them to remove any dust settled on top. Move all the linens to two beds on the far side of the dorm. Vacuum all the remaining mattresses with the upholstry brush. Take each mattress outside to dust it off on all five remaining sides (four edges and bottom). If you notice any stains (usually bird poop) on the mattress, scrub it with a damp cloth. Stack all mattresses on the remaining two beds on the far side of the room.
+
++--------------------------------------------+------------------------------------------------+
+|![Linens](images/deep-clean/linens.jpeg)    |![Mattresses](images/deep-clean/mattresses.jpeg)|
++--------------------------------------------+------------------------------------------------+
+
+![Empty dorm](images/deep-clean/empty-dorm.jpeg)
 
 ### 4. Clean half the dorm
 
@@ -30,6 +39,17 @@ In this step, clean six of the twelve beds. If you choose to clean the two beds 
    (b) **Vacuum.** Use the vacuum's blower function first! Vacuum all corners and cracks around wooden bedframes. Blow out all the spaces under the beds and alongside the beds. Sweep up what you can with a broom before using the vacuum to suck up the smaller dust. Sucking up large dust or debris with the vacuum will clog it. Sweep the beds and floor afterward.
 
    (c) **Dry dust.** Use a dry rag to dry dust: rafters, fans, curtain rods, windows (inside and outside), half-walls, and countertops. Sweep the beds and floor afterward.
+
++-----------------------------------------------+----------------------------------------------+
+|![Rafter before                                |![Rafter after                                |
+|cleaning](images/deep-clean/rafter-before.jpeg)|cleaning](images/deep-clean/rafter-after.jpeg)|
++-----------------------------------------------+----------------------------------------------+
+
++-----------------------------------------------+----------------------------------------------+
+|![Fan after before                             |![Fan after                                   |
+|cleaning](images/deep-clean/fan-before.jpeg)   |cleaning](images/deep-clean/fan-after.jpeg)   |
++-----------------------------------------------+----------------------------------------------+
+
 
    (d) **Wet dust.** Use a damp rag to dust fans and windows (inside and outside). Wipe up any water after wet dusting with a dry rag. Sweep the beds and floor afterward.
 

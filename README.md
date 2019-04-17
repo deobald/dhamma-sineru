@@ -39,6 +39,7 @@ Instructions can be as verbose as necessary. Include images, long descriptions, 
 ## TODO
 
 - [x] Larger subtitles
+- [ ] Images stretch to fit table?
 - [ ] Add images to dorm instructions
 - [ ] Finish dormitories checklist
 - [ ] Add images to residence doc
