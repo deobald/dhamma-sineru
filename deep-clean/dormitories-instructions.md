@@ -1,9 +1,15 @@
 
 ## Dormitories
 
-- if the dining hall is particularly dirty, sweep it up first so dirt doesn't come into the dorms as you move back and forth
-- remove miscellaneous items (coat hangers, toothpaste, combs, pencils, laundry clips, wires, boards, garbage, water bottles, etc)
-- remove stools, clean them outside
+Each dormitory contains 12 beds, 2 or 3 curtains per bed, fans, light fixtures, 3 windows, and a countertop.
+
+Estimated time required: 2 full days for 4-6 dhamma sevaks
+
+### 1. Sweep up.
+
+If the dining hall is particularly dirty, sweep it up first so dirt doesn't come into the dorms as you move back and forth. Remove miscellaneous items (coat hangers, toothpaste, combs, pencils, laundry clips, wires, boards, garbage, water bottles, etc). Remove stools, then dust and wipe them outside. Sweep the floor.
+
+
 - sweep
 - remove curtains and wash any which are dirty; always wash white curtains
 - bang out the dust from linens by hitting them

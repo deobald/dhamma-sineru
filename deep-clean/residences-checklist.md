@@ -7,7 +7,17 @@
 
 <br/>
 
-## 1. Sweep
+## 1. Wash Curtains
+
+![unchecked] Remove curtains from all residences
+
+![unchecked] Wash all curtains
+
+![unchecked] Hang curtains to dry
+
+![unchecked] Replace curtains in all residences
+
+## 2. Sweep
 
 ![][unchecked] Sweep the balcony
 
@@ -20,7 +30,7 @@
 
 <br/>
 
-## 2. Dry Dust
+## 3. Dry Dust
 
 +--------------------------------------------------------+------------------------+
 |### Bedroom:                                            |                        |
@@ -47,7 +57,7 @@
 
 <br/>
 
-## 3. Scrub
+## 4. Scrub
 
 +-----------------------------------------+---------------------------------------+
 |                                         |                                       |
@@ -81,7 +91,7 @@
 
 <br/>
 
-## 4. Mop
+## 5. Mop
 
 ![][unchecked] Bedroom floor
 
@@ -92,7 +102,7 @@
 
 <br/>
 
-## 5. Window glass
+## 6. Window glass
 
 ![][unchecked] Scrub outside of windows
 

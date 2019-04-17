@@ -5,11 +5,19 @@ Each residence contains a balcony, a partition curtain, windows, two beds, two h
 
 Estimated time required: 1 full day for 2 dhamma sevaks
 
-1. Sweep up. Start with the balcony so you have a clean place to keep all your supplies. Next, sweep the shelves and nearby power outlet. Last, sweep bedroom/bathroom/toilet floors. Remove any leftover soap/toothpaste/detergent/bags/combs/etc from the room and dispose of it or save it, as you see fit.
+### 1. Wash curtains.
 
-2. Dry dust. Move all bedding, including the mattress, to one side of the room. Dry dust all surfaces on the empty side with a broom, duster, and/or cloth: Ceiling, electrical conduits, walls, windows, power outlets, headboard, bedframe (over and under). Sweep up all the dust this has knocked down to the floor. You may need to dry dust twice, first with a broom and then with a cloth. Dry dust the bathroom/toilet ceilings, walls, and windows. Sweep the floor after each dry dusting. Open all the windows and let the residence breathe.
+One or two people can handle this task, separate from those who are cleaning each individual residence. Start early in the day so there is time to dry the curtains. Begin by removing the curtains from all the residences. Wash them together by spot cleaning one residence bathroom and washing about 8 curtains per bucket in that bathroom. Dry them outside on the clothes line. When they are mostly dry, replace them in the residences if the windows are completely clean.
 
-3. Scrub.
+### 2. Sweep up.
+
+Start with the balcony so you have a clean place to keep all your supplies. Next, sweep the shelves and nearby power outlet. Last, sweep bedroom/bathroom/toilet floors. Remove any leftover soap/toothpaste/detergent/bags/combs/etc from the room and dispose of it or save it, as you see fit.
+
+### 3. Dry dust.
+
+Move all bedding, including the mattress, to one side of the room. Dry dust all surfaces on the empty side with a broom, duster, and/or cloth: Ceiling, electrical conduits, walls, windows, power outlets, headboard, bedframe (over and under). Sweep up all the dust this has knocked down to the floor. You may need to dry dust twice, first with a broom and then with a cloth. Dry dust the bathroom/toilet ceilings, walls, and windows. Sweep the floor after each dry dusting. Open all the windows and let the residence breathe.
+
+### 4. Scrub.
 
    (a) The bedroom. Add a small amount of phenol to a bucket and fill it halfway with water. Scrub windows, power outlets, headboard, curtain rods, and shelves using the scrub brush. Use the toothbrush for small surfaces such as the thin portions of the window pane. A mug with phenol water may help if you are moving around a lot. Tiled surfaces may have paint, wax, or other stains. If so, try to scratch the large stains off using the hard backside of the scrub brush, a green scratchy pad, or the wire brush. Do not use the wire brush on painted surfaces or it will damage the paint. Once surfaces are scrubbed, wipe them down with a clean cloth so dirty water doesn't dry and stain them. Scrub mattresses with a damp (not wet) cloth wherever they have surface stains. Sweep the floor in bare feet (to test if the floor is completely clean) once you are done scrubbing.
 
@@ -17,8 +25,12 @@ Estimated time required: 1 full day for 2 dhamma sevaks
 
    (c) Accessories. If you are feeling especially loving toward future meditators, clean the plastic stools, dustbin/dustpan (from the balcony), buckets, and mugs by scrubbing them and rinsing them.
 
-4. Mop. In bare feet (to ensure floor is completely clean), mop the bedroom. Rinse the bathroom and toilet floors with clean water and squeegee them dry. Close all the windows in the bathroom/toilet/bedroom.
+### 5. Mop.
 
-5. Clean window glass. Scrub the outside of each window pane if you haven't done so already. If the window panes are particularly dirty, muddy water will drip down the side of the residence; scrub this off the wall so it does not stain the white paint. Spray Colin on the inside and outside of window glass and wipe the glass clean with newspaper.
+In bare feet (to ensure floor is completely clean), mop the bedroom. Rinse the bathroom and toilet floors with clean water and squeegee them dry. Close all the windows in the bathroom/toilet/bedroom.
+
+### 6. Clean window glass.
+
+Scrub the outside of each window pane if you haven't done so already. If the window panes are particularly dirty, muddy water will drip down the side of the residence; scrub this off the wall so it does not stain the white paint. Spray Colin on the inside and outside of window glass and wipe the glass clean with newspaper.
 
 You're done!
