@@ -16,7 +16,7 @@ output/residences-checklist.docx
 
 **Instructions** can be as verbose as necessary. Include images, long descriptions, and videos to help servers understand what they need to do and why. A copy of the instructions can be borrowed and taken to the work area by the servers while they complete their tasks so they may refer to it while they work through the corresponding checklist. If an instructional video exists for their work area, ask servers to watch videos in advance.
 
-**Checklists** must be as simple and minimal as possible to avoid confusion. (See !["The Checklist Manifesto"](https://en.wikipedia.org/wiki/The_Checklist_Manifesto).) Servers will take a printout of the checklist with them to work on an area so they can check it off as they go with a pen. The checklist acts as a reminder and as a log of what work has been completed, in case they need to stop and someone else must take over from them. The checklist should never contain instructional information or images - keep those in the instructions.
+**Checklists** must be as simple and minimal as possible to avoid confusion. (See _[The Checklist Manifesto](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)_.) Servers will take a printout of the checklist with them to work on an area so they can check it off as they go with a pen. The checklist acts as a reminder and as a log of what work has been completed, in case they need to stop and someone else must take over from them. The checklist should never contain instructional information or images - keep those in the instructions.
 
 
 ## 2. Making changes
