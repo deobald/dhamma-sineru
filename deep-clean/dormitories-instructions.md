@@ -15,6 +15,8 @@ If the dining hall is particularly dirty, sweep it up first so dirt doesn't come
 
 Gently remove all the curtains from the curtain rods and curtain wires. Snap-dust curtains in a whipping motion outside (see photo) while they are dry to remove dirt. Wash all the curtains by soaking, scrubbing, and rinsing them in a clean residence bathroom. About 8 curtains fit comfortably in one bucket. Hang the curtains to dry in the sun. You will replace them when you replace the linens in the dormitory.
 
+If you have more than 2 people on your dormitories cleaning team, have 1 or 2 people wash the curtains while the rest work in the dorms.
+
 +----------------------------------------+-----------------------------------------+
 |![Curtain                               |![Remove curtain                         |
 |rod](images/deep-clean/curtain1.jpeg){  |gently](images/deep-clean/curtain2.jpeg){|
@@ -134,7 +136,7 @@ Put one mattress back on each bedframe. Place one type of linen on each mattress
 |width=250px }                                   |width=250px }                                  |
 +------------------------------------------------+-----------------------------------------------+
 
-### 7. Sweep & Mop
+### 7. Sweep &amp; Mop
 
 Sweep the floor one or two times with the normal broom. Sweep the floor with the dry mop -- by this point the floor should be clean enough that it collects almost no dust. Mop the floor. Replace the stools.
 
