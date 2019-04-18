@@ -15,6 +15,19 @@ How-to manuals for the Administration of Dhamma Sineru to distribute.
 Microsoft Word files will be written to `./output`.
 
 
+## Building other document formats
+
+Alternatively, you can choose your output format. `pandoc` will attempt whatever you pass to it but I have tested `docx`, `pdf`, and `html`. HTML requires the `images` directory so `build.sh` copies it into `output` for you. These commands work:
+
+```
+./build.sh docx    # default
+./build.sh pdf
+./build.sh html
+```
+
+Please note that because `docx` is the primary target format, PDF and HTML do behave a little strangely but they are perfectly functional.
+
+
 ## Making changes
 
 Feel free to copy these documents and change them as you like for your local Vipassana centre! Please speak to the Dhamma Sineru Administration regarding changes to the canonical documents. Changes in Microsoft Word can be made and copied into this repository as a backup but the Word documents kept with the Administration are to be considered canonical for Dhamma Sineru.
@@ -41,6 +54,7 @@ Instructions can be as verbose as necessary. Include images, long descriptions, 
 - [x] Larger subtitles
 - [x] Images stretch to fit table?
 - [x] Add images to dorm instructions
-- [ ] Finish dormitories checklist
+- [x] Finish dormitories checklist
+- [x] Add HTML build option
 - [ ] Add images to residence doc
 - [ ] Page numbering?

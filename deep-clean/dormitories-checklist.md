@@ -1,3 +1,6 @@
+---
+title:  'Dormitories Checklist'
+---
 
 # Dhamma Sineru Deep Clean: Dormitories Checklist
 
@@ -51,47 +54,49 @@
 ## 4. Clean half the dorm
 
 +------------------------------+------------------------------+
-|### (a) Sweep                 |### (c) Dry dust              |
-|                              |                              |
-|![unchecked] Sweep tops of    |![unchecked] Dust rafters     |
-|walls                         |                              |
+|                              |### (c) Dry dust              |
+|                              |![unchecked] Dust rafters     |
+|### (a) Sweep                 |                              |
 |                              |![unchecked] Dust fans        |
-|![unchecked] Sweep rafters    |                              |
-|                              |![unchecked] Dust curtain rods|
+|![unchecked] Sweep tops of    |                              |
+|walls                         |![unchecked] Dust curtain rods|
+|                              |                              |
+|![unchecked] Sweep rafters    |![unchecked] Dust windows     |
+|                              |inside                        |
 |![unchecked] Sweep fans       |                              |
 |                              |![unchecked] Dust windows     |
-|![unchecked] Sweep walls      |inside                        |
+|![unchecked] Sweep walls      |outside                       |
 |                              |                              |
-|![unchecked] Sweep windows    |![unchecked] Dust windows     |
-|                              |outside                       |
-|![unchecked] Brush screens    |                              |
-|                              |![unchecked] Dust halfwalls   |
-|![unchecked] Sweep wood walls |                              |
-|                              |![unchecked] Dust countertops |
+|![unchecked] Sweep windows    |![unchecked] Dust halfwalls   |
+|                              |                              |
+|![unchecked] Brush screens    |![unchecked] Dust countertops |
+|                              |                              |
+|![unchecked] Sweep wood walls |![unchecked] Sweep beds and   |
+|                              |floor                         |
 |![unchecked] Sweep halfwalls  |                              |
+|                              |### (d) Wet dust              |
+|![unchecked] Sweep countertops|                              |
+|                              |![unchecked] Wipe fans        |
+|![unchecked] Sweep beds       |                              |
+|                              |![unchecked] Scrub windows    |
+|![unchecked] Sweep floor      |                              |
 |                              |![unchecked] Sweep beds and   |
-|![unchecked] Sweep countertops|floor                         |
-|                              |                              |
-|![unchecked] Sweep beds       |### (d) Wet dust              |
-|                              |                              |
-|![unchecked] Sweep floor      |![unchecked] Wipe fans        |
-|                              |                              |
-|### (b) Vacuum                |![unchecked] Scrub windows    |
-|                              |                              |
-|![unchecked] Blow out         |![unchecked] Sweep beds and   |
-|halfwalls                     |floor                         |
+|### (b) Vacuum                |floor                         |
 |                              |                              |
 |![unchecked] Blow out         |### (e) Clean window glass    |
-|bedframes                     |                              |
+|halfwalls                     |                              |
 |                              |![unchecked] Clean inside     |
+|![unchecked] Blow out         |glass                         |
+|bedframes                     |                              |
+|                              |![unchecked] Clean outside    |
 |![unchecked] Blow under beds  |glass                         |
 |                              |                              |
-|![unchecked] Vacuum tops of   |![unchecked] Clean outside    |
-|beds                          |glass                         |
-|                              |                              |
-|                              |### (f) Scrub countertops     |
-|                              |                              |
+|![unchecked] Vacuum tops of   |### (f) Scrub countertops     |
+|beds                          |                              |
 |                              |![unchecked] Scrub countertops|
+|                              |                              |
+|                              |![unchecked] Sweep floor      |
+|                              |                              |
 |                              |                              |
 |                              |![unchecked] Sweep floor      |
 |                              |                              |

@@ -1,5 +1,5 @@
 
-## Residences
+## Residences Instructions
 
 Each residence contains a balcony, a partition curtain, windows, two beds, two headboards, two shelves, two clothing rods, at least one toilet, and one bathroom.
 

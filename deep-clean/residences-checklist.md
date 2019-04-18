@@ -1,5 +1,7 @@
-
-# Dhamma Sineru Deep Clean: Residences Checklist
+---
+title:  'Residences Checklist'
+subtitle: 'Dhamma Sineru Deep Clean'
+---
 
 <br/>
 
@@ -27,60 +29,63 @@
 
 ## 3. Dry Dust
 
+
 +--------------------------------------------------------+------------------------+
 |### Bedroom:                                            |                        |
 |                                                        |### Bathroom:           |
-|![unchecked] Move all bedding to one side of the room |                        |
-|                                                        |![unchecked] Ceilings |
-|![unchecked] Ceiling                                  |                        |
-|                                                        |![unchecked] Walls    |
-|![unchecked] Electrical conduits                      |                        |
-|                                                        |![unchecked] Windows  |
-|![unchecked] Walls                                    |                        |
+|![unchecked] Move all bedding to one side of the room   |                        |
+|                                                        |![unchecked] Ceilings.  |
+|![unchecked] Ceiling                                    |                        |
+|                                                        |![unchecked] Walls      |
+|![unchecked] Electrical conduits                        |                        |
+|                                                        |![unchecked] Windows    |
+|![unchecked] Walls                                      |                        |
 |                                                        |<br/>                   |
-|![unchecked] Windows                                  |                        |
+|![unchecked] Windows                                    |                        |
 |                                                        |### Toilet:             |
-|![unchecked] Power outlets                            |                        |
-|                                                        |![unchecked] Ceilings |
-|![unchecked] Headboard                                |                        |
-|                                                        |![unchecked] Walls    |
-|![unchecked] Bedframe (top and bottom)                |                        |
-|                                                        |![unchecked] Windows  |
-|![unchecked] Open all windows                         |                        |
+|![unchecked] Power outlets                              |                        |
+|                                                        |![unchecked] Ceilings   |
+|![unchecked] Headboard                                  |                        |
+|                                                        |![unchecked] Walls      |
+|![unchecked] Bedframe (top and bottom)                  |                        |
+|                                                        |![unchecked] Windows    |
+|![unchecked] Open all windows                           |                        |
 |                                                        |                        |
 +--------------------------------------------------------+------------------------+
+
 
 <br/>
 
 ## 4. Scrub
 
+
 +-----------------------------------------+---------------------------------------+
 |                                         |                                       |
 |### (a) Bedroom                          |### (b2) Toilet                        |
 |                                         |                                       |
-|![unchecked] Windows                   |![unchecked] Window                  |
+|![unchecked] Windows                     |![unchecked] Window                    |
 |                                         |                                       |
-|![unchecked] Power outlets             |![unchecked] Fixtures                |
+|![unchecked] Power outlets               |![unchecked] Fixtures                  |
 |                                         |                                       |
-|![unchecked] Headboard                 |![unchecked] Wall tiles              |
+|![unchecked] Headboard                   |![unchecked] Wall tiles                |
 |                                         |                                       |
-|![unchecked] Curtain rods              |![unchecked] Floor tiles             |
+|![unchecked] Curtain rods                |![unchecked] Floor tiles               |
 |                                         |                                       |
-|![unchecked] Shelves                   |<br/>                                  |
+|![unchecked] Shelves                     |<br/>                                  |
 |                                         |                                       |
-|![unchecked] Mattress stains           |### (c) Accessories                    |
+|![unchecked] Mattress stains             |### (c) Accessories                    |
 |                                         |                                       |
-|<br/>                                    |![unchecked] Stool                   |
+|<br/>                                    |![unchecked] Stool                     |
 |                                         |                                       |
-|### (b1) Bathroom                        |![unchecked] Dustbin / dustpan       |
+|### (b1) Bathroom                        |![unchecked] Dustbin / dustpan         |
 |                                         |                                       |
-|![unchecked] Window                    |![unchecked] Buckets / mugs          |
+|![unchecked] Window                      |![unchecked] Buckets / mugs            |
 |                                         |                                       |
-|![unchecked] Fixtures                  |                                       |
+|![unchecked] Fixtures                    |                                       |
 |                                         |                                       |
-|![unchecked] Wall tiles                |                                       |
+|![unchecked] Wall tiles                  |                                       |
 |                                         |                                       |
-|![unchecked] Floor tiles               |                                       |
+|![unchecked] Floor tiles                 |                                       |
 +-----------------------------------------+---------------------------------------+
 
 

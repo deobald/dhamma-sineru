@@ -1,5 +1,5 @@
 
-## Dormitories
+## Dormitories Instructions
 
 Each dormitory contains 12 beds, 2 or 3 curtains per bed, fans, light fixtures, 3 windows, and a countertop.
 
@@ -14,8 +14,6 @@ If the dining hall is particularly dirty, sweep it up first so dirt doesn't come
 ### 2. Wash curtains.
 
 Gently remove all the curtains from the curtain rods and curtain wires. Snap-dust curtains in a whipping motion outside (see photo) while they are dry to remove dirt. Wash all the curtains by soaking, scrubbing, and rinsing them in a clean residence bathroom. About 8 curtains fit comfortably in one bucket. Hang the curtains to dry in the sun. You will replace them when you replace the linens in the dormitory.
-
-If you have more than 2 people on your dormitories cleaning team, have 1 or 2 people wash the curtains while the rest work in the dorms.
 
 +----------------------------------------+-----------------------------------------+
 |![Curtain                               |![Remove curtain                         |
